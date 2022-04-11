@@ -11,7 +11,7 @@ class oauthWrapper {
   private static $USER_URL = "https://discord.com/api/users/@me";
   private static $REDIRECT_URL = "http://localhost/oauthwrapper/base.php";
 
-  /* user variables */ 
+  /* application variables */ 
 
   public static $CLIENT_ID; 
   public static $CLIENT_SECRET;
