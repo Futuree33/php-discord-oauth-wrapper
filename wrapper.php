@@ -9,7 +9,7 @@ class oauthWrapper {
   private static $TOKEN_URL = "https://discord.com/api/oauth2/token";
   private static $REVOKE_URL = "https://discord.com/api/oauth2/token/revoke";
   private static $USER_URL = "https://discord.com/api/users/@me";
-  private static $REDIRECT_URL = "http://localhost/oauthwrapper/base.php";
+  private static $REDIRECT_URL = "set to your redirect uri";
 
   /* application variables */ 
 
